@@ -3,3 +3,4 @@ dist/*
 *egg*/*
 .venv/*
 **/*__pycache__/*
+*.lock
